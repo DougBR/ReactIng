@@ -1,2 +1,0 @@
-# ReactIng
-Created with CodeSandbox
